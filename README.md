@@ -1,4 +1,4 @@
-# (Nombre del proyecto)  
+#  Lucha de Incas
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
