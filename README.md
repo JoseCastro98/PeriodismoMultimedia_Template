@@ -1,6 +1,5 @@
-#  Lucha de Incas
+#Lucha de Íncas
 
-(Plantilla para la creación de un proyecto Multimedia Interactivo)
 
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
 Master de Nuevos medios interactivos y periodismo multimedia
@@ -9,28 +8,25 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Lucha de Íncas
 
-**Autor(es)** ______________
+**Autor(es)** Jose Castro, Nahuel Briscek y Alejandro Navas
 
-**Resumen** : _________
+**Resumen** : Una niña y su hermano descubren un nuevo juego con el que divertirse y pasar el tiempo, pero lo que no saben es que tendrán que vivir  una aventura para poder seguir jugando a dicho juego, y que ese juego se convertirá en uno de los deportes más jugados del planeta.
 
-**logotipo** :  ________
+**logotipo** :  (Aparece en el juego)
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** : La curiosidad te puede abrir grandes caminos
 
-**Hashtag**  ___
+**Hashtag**  #LuchaDeIncas
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
-
-**Fecha** : 2020
+**Licencia**    Creative Commons
+**Fecha** : 2023
 
 **Medios** (donde se tiene presencia): 
 
 
-*  :octocat: (github url) 
-* Twitter 
-* ... 
+* Twitter
 
 
 
@@ -38,77 +34,66 @@ Univesidad de Granada
 
 ### Metodología
 
-Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+Actividades realizadas mediante Trello:
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
-
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
-
-
-**Necesidad/oportunidad** 
-
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
-
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
-
-**Estilo de narración**  (...indica como se hace uso de los medios)  
-
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+* Creación de la historia
+* Estudio de canales favorables
+* Merchandising
+* Dibujo animado
+* Libro
+* Videojuego
+* Web
+* Redes sociales
+* Película
 
 
-![gato](https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg)
+**Motivación de la propuesta**: Creemos que es una historia entretenida y curiosa a la par que ficticia sobre nuestra visión de la creación de un gran deporte en una de las culturas más influyentes de la historia de la humanidad.
+
+**Personas/Usuarios**: Esta historia está enfocada a un público joven
+
+**Estilo de narración**:
+* documental interactivo
+* videojuego
+
 
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-* redes sociales (...) 
+* redes sociales:
+- Twitter
+- Tik Tok
 
-* publicidad: banner (... ) 
+* Merchandising:
+- Camisetas
 
-* ...
+* Dibujos animados
+
+* Libro
+
+* Videojuego
+
+* Web
+
+* Película
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
-
-
-
+* Encuestas para los usuarios a través de las redes sociales
+* Número de ventas de los diferentes productos sacados a la venta
+* Número de personas que acudan a los eventos realizados
 
 
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
-
-
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-(...)
-
-
+* Problemas identificados: A pesar de que la aplicación con la que se ha realizado el videojuego interactivo es mucho más intuitiva que otras, tiene una serie de limitaciones que no han permitido ampliar la creatividad del proyecto. 
+* Propuestas de mejora: Implementación de varias herramientas dentro de la aplicación par poder facilitar y ampliar la experiencia del usuario.
 
 
 
@@ -117,17 +102,7 @@ Referencias y recursos:
 
 **Referencias y recursos utilizados** :
 
-* [Proceso UX](https://uxmastery.com/resources/process/)
-* [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
-* [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
-* [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
-
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
-
+Todas las partes que han construido esta historia han sido creadas originalmente por los miembros del proyecto.
 
 
 
