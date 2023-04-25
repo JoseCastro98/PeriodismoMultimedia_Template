@@ -1,4 +1,4 @@
-#Lucha de Íncas
+# Lucha de Íncas
 
 
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
