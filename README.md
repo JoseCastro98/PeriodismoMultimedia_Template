@@ -67,11 +67,11 @@ Actividades realizadas mediante Trello:
 
 
 * redes sociales:
-- Twitter
-- Tik Tok
+I: Twitter
+II: Tik Tok
 
 * Merchandising:
-- Camisetas
+I: Camisetas
 
 * Dibujos animados
 
