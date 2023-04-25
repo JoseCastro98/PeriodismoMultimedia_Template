@@ -6,6 +6,8 @@ Master de Nuevos medios interactivos y periodismo multimedia
 Facultad de Comunicación y Documentación
 Univesidad de Granada  
 
+Link para reproducir el videojuego interactivo: https://arcweave.com/app/project/POlqpvL0az/play
+
 ----
 
 **Titulo** : Lucha de Íncas
