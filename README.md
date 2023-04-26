@@ -27,9 +27,8 @@ Link para reproducir el videojuego interactivo: https://arcweave.com/app/project
 
 **Medios** (donde se tiene presencia): 
 
-
 * Twitter
-
+* Tik Tok
 
 
 --- 
